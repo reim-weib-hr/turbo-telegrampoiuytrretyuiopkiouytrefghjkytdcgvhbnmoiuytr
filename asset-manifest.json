@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/static/css/main.0005f2d6.css",
+    "main.js": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/static/js/main.e08e1ae9.js",
+    "static/js/453.91ef6f03.chunk.js": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/static/js/453.91ef6f03.chunk.js",
+    "index.html": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/index.html",
+    "main.0005f2d6.css.map": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/static/css/main.0005f2d6.css.map",
+    "main.e08e1ae9.js.map": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/static/js/main.e08e1ae9.js.map",
+    "453.91ef6f03.chunk.js.map": "/turbo-telegrampoiuytrretyuiopkiouytrefghjkytdcgvhbnmoiuytr/static/js/453.91ef6f03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0005f2d6.css",
+    "static/js/main.e08e1ae9.js"
+  ]
+}
